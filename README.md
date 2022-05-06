@@ -1,0 +1,2 @@
+# IoMT
+Internet of Military Things (IoMT) or Internet of Battlefield Things (IoBT) is a class of Internet of Things for modern battle operations and intelligent warfare.   It refers to the physical components in the Military doman, Embedded with sensors and monitors to track the ongoing processes.  These sensors collect information like Biometrics, Live location, Capture images and process the data etc.
